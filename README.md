@@ -3,5 +3,3 @@
 
 <strong>Este projeto é totalmente responsivo, e sua estrutura é formada por JavaScript, HTML5 e CSS3.
 As tags são utilizadas com foco na sintaxe correta e na otimização para mecanismos de busca (SEO).</strong>
-
-Resumo: Formulário com validações.
