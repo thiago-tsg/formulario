@@ -9,18 +9,8 @@ form.addEventListener('submit', (event) => {
     emailValidate();
     password();
     comparePassword();
-
 })
 
-function setError(index){
-    campos[index].style.border = '2px solid #e63636';
-    spans[index].style.display = 'block';
-}
-
-function removeError(index){
-    campos[index].style.border = '';
-    spans[index].style.display = 'none';
-}
 
 function nameValidate(){
     if(campos[0].value.length < 3)
